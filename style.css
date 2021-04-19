@@ -1,0 +1,75 @@
+
+      .lbutton{
+          margin : 10px;
+      }
+     
+     
+     body{
+         background :whitesmoke;
+     }
+    
+     .card{
+         box-shadow : 0px 1px 36px 5px rgba(0,0,0,0.28);
+         padding : 30px;
+         border-radius : 5px;
+     }
+     .errmsg{
+      margin : 2px auto;
+      border-radius : 5px;
+      border : 1px solid red;
+      background: pink;
+      text-align: left;
+      color : brown;
+      padding : 1px;
+      margin-left : 10px;
+      margin-top : 30px;
+     }
+     .successmsg{
+      margin : 5px auto;
+      border-radius : 5px;
+      border : 5px solid white;
+      background: rgba(113, 12, 228, 0.631);
+      text-align: left;
+      color : white;
+      font-size : larger;
+      font-weight : bolder;
+      padding : 10px;
+    margin-left : 10px;
+    margin-top : 100px;
+     }
+
+     .reg{
+         margin-top : 20px;
+         margin-bottom : 20px;
+         margin-left : 20px;
+     }
+    .lb{
+        margin-left : 10px;
+        font-family : 'cursive';
+    }
+   
+    nav{
+        color : grey;
+        background : white;
+        font-size : 20px;
+        font-weight : bolder;
+        padding-left : 20px;
+        padding-top : 10px;
+        padding-bottom : 10px;
+        font-family : 'times new roman';
+    }
+    
+    nav a{
+        color : rgb(192, 40, 206);
+    }
+    .out{
+        padding-left : 1000px;
+    }
+    .abc{
+        margin-top: 20px;;
+    }
+    .abcd{
+        margin-bottom: 20px;;
+    }
+
+    
